@@ -1,0 +1,35 @@
+supported_shorteners = {
+    'shareus.in':{
+        'api_url':'https://api.shareus.in/shortLink?token={}&link={}',
+        'api_key_page_url':'https://shareus.io/pub/tools.html'
+    },
+    'tnlink.in':{
+        'api_url':'https://tnlink.in/api?api={}&url={}',
+        'api_key_page_url':'https://tnlink.in/member/tools/api'
+    },
+    'gplinks.in':{
+        'api_url':'https://gplinks.in/api?api={}&url={}',
+        'api_key_page_url':'https://gplinks.in/member/tools/api'
+    },
+    'urlshortx.com':{
+        'api_url':'https://urlshortx.com/api?api={}&url={}',
+        'api_key_page_url':'https://urlshortx.com/member/tools/api'
+    },
+    'getlink.cc':{
+        'api_url':'https://getlink.cc/api?api={}&url={}',
+        'api_key_page_url':'https://getlink.cc/member/tools/api'
+    },
+    'clicksfly.com':{
+        'api_url':'https://clickfly.com/api?api={}&url={}',
+        'api_key_page_url':'https://clicksfly.com/member/tools/api'
+    },
+    'shorturllink.in':{
+        'api_url':'https://shorturllink.in/api?api={}&url={}',
+        'api_key_page_url':'https://shorturllink.in/member/tools/api'
+    },
+    'mdisklink.link':{
+        'api_url':'https://mdisklink.link/api?api={}&url={}',
+        'api_key_page_url':'https://mdisklink.link/member/tools/api'
+    }    
+}
+
